@@ -4,3 +4,5 @@ qt-digital-clock
 Makefile
 .qmake.stash
 build/
+debug
+release
